@@ -1,3 +1,10 @@
+haskell-erf (2.0.0.0-2) unstable; urgency=low
+
+  [ Iulian Udrea ]
+  * Add short description.
+
+ -- Joachim Breitner <nomeata@debian.org>  Mon, 06 Feb 2012 17:20:56 +0100
+
 haskell-erf (2.0.0.0-1) unstable; urgency=low
 
   * New upstream release.
