@@ -1,0 +1,5 @@
+*.hi
+*.o
+/build-haddock-stamp
+/dist-ghc/
+/dist/
